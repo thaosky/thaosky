@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaosky
-- 👀 I’m interested in algothim
+- 👀 I’m interested in algorithm
 - 🌱 I’m currently learning DFS BFS Backtrack...
 
 <!---
